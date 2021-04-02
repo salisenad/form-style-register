@@ -1,0 +1,13 @@
+.svg-tick {
+  position: absolute;
+  left: 21px;
+  top: 9px;
+}
+
+@media only screen and (max-width: 769px) {
+  .display-shower {
+    display: none !important;
+  }
+}
+
+

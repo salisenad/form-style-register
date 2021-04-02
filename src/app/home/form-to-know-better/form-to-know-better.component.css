@@ -1,0 +1,12 @@
+.let-us-get-know-beter {
+  position: absolute;
+  width: 35%;
+  /*right: 10%;*/
+}
+
+@media only screen and (max-width: 769px) {
+  .form-know-better {
+    position: relative !important;
+    width: 100% !important;
+  }
+}
